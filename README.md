@@ -21,7 +21,7 @@ Analisar dados e construir modelos de regressão para prever a renda de indivíd
 ## 📈 Resultado
 Aqui você pode inserir uma imagem ou GIF do projeto (como gráficos, exemplo do dataset tratado, ou trecho de output):
 
-```
+```texto
 📷 Exemplo de gráfico de distribuição (inserir imagem real do projeto aqui)
 ```
 ---
