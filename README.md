@@ -74,8 +74,9 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para ma
 
 ---
 
-## 🙋‍♂️ Autor
+## 📬 Contato
 
-[![Fábio Oliveira - LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/fabio-oliveira95)  
-**Fábio Oliveira**  
+Fábio Oliveira  
+🔗 [LinkedIn](https://www.linkedin.com/in/fabio-oliveira-araujo-cientista/)  
+📧 fabiooliveira0067@gmail.com
 
