@@ -78,4 +78,4 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para ma
 
 [![Fábio Oliveira - LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/fabio-oliveira95)  
 **Fábio Oliveira**  
-Cientista de Dados em formação, apaixonado por análise, modelagem e soluções inteligentes.
+
