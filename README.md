@@ -1,38 +1,81 @@
-# Previsão de Renda
+# 💰 Previsão de Renda
 
-Este projeto tem como objetivo prever a renda de indivíduos baseada em variáveis socioeconômicas utilizando técnicas de machine learning.
+Projeto de Ciência de Dados focado em prever a renda mensal de indivíduos com base em dados socioeconômicos, utilizando técnicas de Machine Learning.
 
-## Estrutura do Projeto
+---
 
-A maior parte do código está em Jupyter Notebooks, o que facilita a visualização e análise dos dados. Há também alguns scripts em Python que auxiliam no processamento dos dados e na execução dos modelos.
+## 📌 Objetivo
+Analisar dados e construir modelos de regressão para prever a renda de indivíduos, otimizando decisões estratégicas para empresas que trabalham com crédito e perfil de consumo.
 
-## Instalação
+---
 
-Para executar este projeto localmente, siga os passos abaixo:
+## 🧰 Tecnologias Utilizadas
+- Python (Pandas, Scikit-learn, Matplotlib, Seaborn)
+- Jupyter Notebook
+- Regressão Linear, Random Forest, XGBoost
+- Análise Exploratória de Dados (EDA)
+- Pré-processamento e seleção de features
 
-1. Clone o repositório:
-    ```bash
-    git clone https://github.com/fabiooliveira95/Previsao-de-renda.git
-    ```
+---
 
-2. Entre no diretório do projeto:
-    ```bash
-    cd Previsao-de-renda
-    ```
+## 📈 Resultado
+Aqui você pode inserir uma imagem ou GIF do projeto (como gráficos, exemplo do dataset tratado, ou trecho de output):
 
-3. Crie e ative um ambiente virtual (opcional, mas recomendado):
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # No Windows use `venv\Scripts\activate`
-    ```
+```
+📷 Exemplo de gráfico de distribuição (inserir imagem real do projeto aqui)
+```
 
-4. Instale as dependências necessárias:
-    ```bash
-    pip install -r requirements.txt
-    ```
+---
 
-## Uso
+## 🧪 Como Executar o Projeto
 
-Após a instalação das dependências, você pode começar a utilizar o projeto abrindo os notebooks Jupyter. Para iniciar o Jupyter Notebook, execute:
+### 1. Clone o repositório
+```bash
+git clone https://github.com/fabiooliveira95/Previsao-de-Renda.git
+cd Previsao-de-Renda
+```
+
+### 2. Crie um ambiente virtual e instale as dependências
+```bash
+python -m venv venv
+source venv/bin/activate  # ou venv\Scripts\activate no Windows
+pip install -r requirements.txt
+```
+### 3. Execute os notebooks
 ```bash
 jupyter notebook
+```
+
+---
+
+## 📊 Modelos Avaliados
+- **Regressão Linear**
+- **Random Forest Regressor**
+- **XGBoost Regressor**
+
+Métricas utilizadas: MAE, RMSE, R² Score
+
+---
+
+## 📂 Estrutura do Projeto
+```
+Previsao-de-Renda/
+├── data/              # Base de dados
+├── notebooks/         # Notebooks de EDA e modelagem
+├── requirements.txt   # Dependências do projeto
+├── renda.mov          # Apresentação em vídeo
+└── README.md
+```
+
+---
+
+## 📜 Licença
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+---
+
+## 🙋‍♂️ Autor
+
+[![Fábio Oliveira - LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/fabio-oliveira95)  
+**Fábio Oliveira**  
+Cientista de Dados em formação, apaixonado por análise, modelagem e soluções inteligentes.
